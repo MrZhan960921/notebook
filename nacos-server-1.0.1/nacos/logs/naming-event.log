@@ -26,3 +26,29 @@
 
 2020-05-31 16:53:12,297 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.56.1:8010_true,
 
+2020-05-31 17:00:21,622 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 17:00:21,622 INFO [IP-UPDATED] namespace: a809b1e2-3bc6-4054-826d-a93716cb56b9, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8090_true,
+
+2020-05-31 17:01:40,783 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: NJ, new ips size: 1, content: [192.168.56.1:8091:unknown:NJ_1.0_true_false_NJ]
+
+2020-05-31 17:01:40,783 INFO [IP-UPDATED] namespace: a809b1e2-3bc6-4054-826d-a93716cb56b9, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8091_true,192.168.56.1:8090_true,
+
+2020-05-31 17:02:13,179 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 17:02:13,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8088_true,
+
+2020-05-31 17:02:13,419 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 17:02:13,419 INFO [IP-UPDATED] namespace: a809b1e2-3bc6-4054-826d-a93716cb56b9, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8091_true,
+
+2020-05-31 17:02:13,500 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: NJ, dead ips size: 1, content: [192.168.56.1:8091:unknown:NJ_1.0_true_false_NJ]
+
+2020-05-31 17:02:13,500 INFO [IP-UPDATED] namespace: a809b1e2-3bc6-4054-826d-a93716cb56b9, service: DEFAULT_GROUP@@user-center, ips: 
+
+2020-05-31 17:02:29,222 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8088@DEFAULT@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1590915729637
+
+2020-05-31 17:02:44,370 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8088:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-31 17:02:44,370 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 
+

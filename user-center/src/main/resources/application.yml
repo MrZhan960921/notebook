@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8091
 spring:
   datasource:
     url: jdbc:mysql://111.231.64.120:3306/user_center
@@ -14,6 +14,8 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848
+        namespace: a809b1e2-3bc6-4054-826d-a93716cb56b9 #不同的namespace之间是隔离的，这里是namespace的uuid
+        cluster-name: NJ #指定集群名称
   application:
     # 服务名称尽量用-，不要用_，不要用特殊字符
     name: user-center
