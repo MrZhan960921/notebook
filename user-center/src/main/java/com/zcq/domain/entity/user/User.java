@@ -1,4 +1,4 @@
-package com.itmuch.usercenter.domain.entity.user;
+package com.zcq.domain.entity.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

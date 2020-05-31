@@ -1,0 +1,284 @@
+2020-05-31 16:17:08,233 INFO listen for service meta change
+
+2020-05-31 16:17:12,277 INFO [SERVER-INIT] got port: 8848
+
+2020-05-31 16:17:12,277 INFO [SERVER-INIT] got path: /nacos
+
+2020-05-31 16:17:13,102 INFO receive config info: unknown#192.168.56.1:8848#1590913033102#8
+
+
+2020-05-31 16:17:13,102 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":1590913033102,"lastRefTimeStr":"2020-05-31 16:17:13","servePort":8848,"site":"unknown","weight":8}]
+
+2020-05-31 16:17:28,104 INFO receive config info: unknown#192.168.56.1:8848#1590913048104#8
+
+
+2020-05-31 16:17:40,885 INFO [HEALTH-CHECK] health check is false
+
+2020-05-31 16:17:43,105 INFO receive config info: unknown#192.168.56.1:8848#1590913063105#8
+
+
+2020-05-31 16:17:58,106 INFO receive config info: unknown#192.168.56.1:8848#1590913078106#8
+
+
+2020-05-31 16:18:13,107 INFO receive config info: unknown#192.168.56.1:8848#1590913093107#8
+
+
+2020-05-31 16:18:13,107 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2020-05-31 16:18:28,108 INFO receive config info: unknown#192.168.56.1:8848#1590913108108#8
+
+
+2020-05-31 16:18:43,109 INFO receive config info: unknown#192.168.56.1:8848#1590913123109#8
+
+
+2020-05-31 16:18:58,110 INFO receive config info: unknown#192.168.56.1:8848#1590913138110#8
+
+
+2020-05-31 16:19:13,110 INFO receive config info: unknown#192.168.56.1:8848#1590913153110#8
+
+
+2020-05-31 16:19:28,112 INFO receive config info: unknown#192.168.56.1:8848#1590913168112#8
+
+
+2020-05-31 16:19:43,112 INFO receive config info: unknown#192.168.56.1:8848#1590913183112#8
+
+
+2020-05-31 16:19:58,113 INFO receive config info: unknown#192.168.56.1:8848#1590913198113#8
+
+
+2020-05-31 16:20:13,114 INFO receive config info: unknown#192.168.56.1:8848#1590913213114#8
+
+
+2020-05-31 16:20:28,114 INFO receive config info: unknown#192.168.56.1:8848#1590913228114#8
+
+
+2020-05-31 16:20:43,115 INFO receive config info: unknown#192.168.56.1:8848#1590913243115#8
+
+
+2020-05-31 16:20:58,116 INFO receive config info: unknown#192.168.56.1:8848#1590913258116#8
+
+
+2020-05-31 16:21:13,116 INFO receive config info: unknown#192.168.56.1:8848#1590913273116#8
+
+
+2020-05-31 16:21:28,116 INFO receive config info: unknown#192.168.56.1:8848#1590913288116#8
+
+
+2020-05-31 16:21:43,118 INFO receive config info: unknown#192.168.56.1:8848#1590913303118#8
+
+
+2020-05-31 16:21:58,118 INFO receive config info: unknown#192.168.56.1:8848#1590913318118#8
+
+
+2020-05-31 16:22:13,120 INFO receive config info: unknown#192.168.56.1:8848#1590913333120#8
+
+
+2020-05-31 16:22:28,120 INFO receive config info: unknown#192.168.56.1:8848#1590913348120#8
+
+
+2020-05-31 16:22:40,886 INFO [HEALTH-CHECK] health check is true
+
+2020-05-31 16:22:43,122 INFO receive config info: unknown#192.168.56.1:8848#1590913363122#8
+
+
+2020-05-31 16:22:58,122 INFO receive config info: unknown#192.168.56.1:8848#1590913378122#8
+
+
+2020-05-31 16:23:13,123 INFO receive config info: unknown#192.168.56.1:8848#1590913393123#8
+
+
+2020-05-31 16:23:28,124 INFO receive config info: unknown#192.168.56.1:8848#1590913408124#8
+
+
+2020-05-31 16:23:43,126 INFO receive config info: unknown#192.168.56.1:8848#1590913423126#8
+
+
+2020-05-31 16:23:58,127 INFO receive config info: unknown#192.168.56.1:8848#1590913438127#8
+
+
+2020-05-31 16:24:13,127 INFO receive config info: unknown#192.168.56.1:8848#1590913453127#8
+
+
+2020-05-31 16:24:28,128 INFO receive config info: unknown#192.168.56.1:8848#1590913468128#8
+
+
+2020-05-31 16:24:43,129 INFO receive config info: unknown#192.168.56.1:8848#1590913483129#8
+
+
+2020-05-31 16:24:58,129 INFO receive config info: unknown#192.168.56.1:8848#1590913498129#8
+
+
+2020-05-31 16:25:13,130 INFO receive config info: unknown#192.168.56.1:8848#1590913513130#8
+
+
+2020-05-31 16:25:28,131 INFO receive config info: unknown#192.168.56.1:8848#1590913528131#8
+
+
+2020-05-31 16:25:43,132 INFO receive config info: unknown#192.168.56.1:8848#1590913543132#8
+
+
+2020-05-31 16:25:58,133 INFO receive config info: unknown#192.168.56.1:8848#1590913558133#8
+
+
+2020-05-31 16:26:13,133 INFO receive config info: unknown#192.168.56.1:8848#1590913573133#8
+
+
+2020-05-31 16:26:28,134 INFO receive config info: unknown#192.168.56.1:8848#1590913588134#8
+
+
+2020-05-31 16:26:43,136 INFO receive config info: unknown#192.168.56.1:8848#1590913603136#8
+
+
+2020-05-31 16:26:58,137 INFO receive config info: unknown#192.168.56.1:8848#1590913618137#8
+
+
+2020-05-31 16:27:13,138 INFO receive config info: unknown#192.168.56.1:8848#1590913633138#8
+
+
+2020-05-31 16:27:28,139 INFO receive config info: unknown#192.168.56.1:8848#1590913648139#8
+
+
+2020-05-31 16:27:40,887 INFO [HEALTH-CHECK] health check is true
+
+2020-05-31 16:27:43,140 INFO receive config info: unknown#192.168.56.1:8848#1590913663140#8
+
+
+2020-05-31 16:27:58,140 INFO receive config info: unknown#192.168.56.1:8848#1590913678140#8
+
+
+2020-05-31 16:28:13,141 INFO receive config info: unknown#192.168.56.1:8848#1590913693141#8
+
+
+2020-05-31 16:28:28,141 INFO receive config info: unknown#192.168.56.1:8848#1590913708141#8
+
+
+2020-05-31 16:28:43,142 INFO receive config info: unknown#192.168.56.1:8848#1590913723142#8
+
+
+2020-05-31 16:28:58,143 INFO receive config info: unknown#192.168.56.1:8848#1590913738143#8
+
+
+2020-05-31 16:29:13,144 INFO receive config info: unknown#192.168.56.1:8848#1590913753144#8
+
+
+2020-05-31 16:29:28,144 INFO receive config info: unknown#192.168.56.1:8848#1590913768144#8
+
+
+2020-05-31 16:29:43,145 INFO receive config info: unknown#192.168.56.1:8848#1590913783145#8
+
+
+2020-05-31 16:29:58,146 INFO receive config info: unknown#192.168.56.1:8848#1590913798146#8
+
+
+2020-05-31 16:30:13,148 INFO receive config info: unknown#192.168.56.1:8848#1590913813148#8
+
+
+2020-05-31 16:30:28,149 INFO receive config info: unknown#192.168.56.1:8848#1590913828149#8
+
+
+2020-05-31 16:30:43,150 INFO receive config info: unknown#192.168.56.1:8848#1590913843150#8
+
+
+2020-05-31 16:30:58,151 INFO receive config info: unknown#192.168.56.1:8848#1590913858151#8
+
+
+2020-05-31 16:31:13,152 INFO receive config info: unknown#192.168.56.1:8848#1590913873152#8
+
+
+2020-05-31 16:31:28,153 INFO receive config info: unknown#192.168.56.1:8848#1590913888153#8
+
+
+2020-05-31 16:31:43,154 INFO receive config info: unknown#192.168.56.1:8848#1590913903154#8
+
+
+2020-05-31 16:31:58,154 INFO receive config info: unknown#192.168.56.1:8848#1590913918154#8
+
+
+2020-05-31 16:32:13,155 INFO receive config info: unknown#192.168.56.1:8848#1590913933155#8
+
+
+2020-05-31 16:32:28,156 INFO receive config info: unknown#192.168.56.1:8848#1590913948156#8
+
+
+2020-05-31 16:32:40,888 INFO [HEALTH-CHECK] health check is true
+
+2020-05-31 16:32:43,157 INFO receive config info: unknown#192.168.56.1:8848#1590913963157#8
+
+
+2020-05-31 16:32:58,157 INFO receive config info: unknown#192.168.56.1:8848#1590913978157#8
+
+
+2020-05-31 16:33:13,158 INFO receive config info: unknown#192.168.56.1:8848#1590913993158#8
+
+
+2020-05-31 16:33:28,159 INFO receive config info: unknown#192.168.56.1:8848#1590914008159#8
+
+
+2020-05-31 16:33:43,159 INFO receive config info: unknown#192.168.56.1:8848#1590914023159#8
+
+
+2020-05-31 16:33:58,160 INFO receive config info: unknown#192.168.56.1:8848#1590914038160#8
+
+
+2020-05-31 16:34:13,160 INFO receive config info: unknown#192.168.56.1:8848#1590914053160#8
+
+
+2020-05-31 16:34:28,161 INFO receive config info: unknown#192.168.56.1:8848#1590914068161#8
+
+
+2020-05-31 16:34:43,162 INFO receive config info: unknown#192.168.56.1:8848#1590914083162#8
+
+
+2020-05-31 16:34:58,164 INFO receive config info: unknown#192.168.56.1:8848#1590914098164#8
+
+
+2020-05-31 16:35:13,164 INFO receive config info: unknown#192.168.56.1:8848#1590914113164#8
+
+
+2020-05-31 16:35:14,028 INFO creating empty service public:DEFAULT_GROUP@@user-center
+
+2020-05-31 16:35:14,042 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.56.1#8081#DEFAULT#DEFAULT_GROUP@@user-center","ip":"192.168.56.1","lastBeat":1590914114005,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8081,"serviceName":"DEFAULT_GROUP@@user-center","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2020-05-31 16:35:14,046 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@user-center, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.56.1#8081#DEFAULT#DEFAULT_GROUP@@user-center","ip":"192.168.56.1","lastBeat":1590914114005,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8081,"serviceName":"DEFAULT_GROUP@@user-center","tenant":"","weight":1}]}
+
+2020-05-31 16:35:28,165 INFO receive config info: unknown#192.168.56.1:8848#1590914128165#8
+
+
+2020-05-31 16:35:43,166 INFO receive config info: unknown#192.168.56.1:8848#1590914143166#8
+
+
+2020-05-31 16:35:58,166 INFO receive config info: unknown#192.168.56.1:8848#1590914158166#8
+
+
+2020-05-31 16:36:13,167 INFO receive config info: unknown#192.168.56.1:8848#1590914173167#8
+
+
+2020-05-31 16:36:28,169 INFO receive config info: unknown#192.168.56.1:8848#1590914188169#8
+
+
+2020-05-31 16:36:43,169 INFO receive config info: unknown#192.168.56.1:8848#1590914203169#8
+
+
+2020-05-31 16:36:58,171 INFO receive config info: unknown#192.168.56.1:8848#1590914218171#8
+
+
+2020-05-31 16:37:11,339 INFO creating empty service public:DEFAULT_GROUP@@content-center
+
+2020-05-31 16:37:11,340 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.56.1#8010#DEFAULT#DEFAULT_GROUP@@content-center","ip":"192.168.56.1","lastBeat":1590914231339,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8010,"serviceName":"DEFAULT_GROUP@@content-center","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2020-05-31 16:37:11,340 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@content-center, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.56.1#8010#DEFAULT#DEFAULT_GROUP@@content-center","ip":"192.168.56.1","lastBeat":1590914231339,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8010,"serviceName":"DEFAULT_GROUP@@content-center","tenant":"","weight":1}]}
+
+2020-05-31 16:37:13,171 INFO receive config info: unknown#192.168.56.1:8848#1590914233171#8
+
+
+2020-05-31 16:37:28,172 INFO receive config info: unknown#192.168.56.1:8848#1590914248172#8
+
+
+2020-05-31 16:37:40,889 INFO [HEALTH-CHECK] health check is true
+
+2020-05-31 16:37:43,173 INFO receive config info: unknown#192.168.56.1:8848#1590914263173#8
+
+
+2020-05-31 16:37:58,173 INFO receive config info: unknown#192.168.56.1:8848#1590914278173#8
+
+

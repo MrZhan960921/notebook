@@ -1,8 +1,9 @@
 package com.zcq.service.user;
 
 
-import com.itmuch.usercenter.domain.entity.user.User;
+
 import com.zcq.dao.user.UserMapper;
+import com.zcq.domain.entity.user.User;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

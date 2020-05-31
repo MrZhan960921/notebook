@@ -1,0 +1,6 @@
+2020-05-31 16:35:14,050 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 16:35:14,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8081_true,
+
+2020-05-31 16:37:11,340 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+

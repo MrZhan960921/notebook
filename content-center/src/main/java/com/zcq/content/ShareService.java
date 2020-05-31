@@ -5,7 +5,6 @@ import com.zcq.dao.content.ShareMapper;
 import com.zcq.domain.dto.content.ShareDTO;
 import com.zcq.domain.dto.user.UserDTO;
 import com.zcq.domain.entity.content.Share;
-import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -50,7 +49,7 @@ public class ShareService {
         RestTemplate restTemplate = new RestTemplate();
         // 用HTTP GET方法去请求，并且返回一个对象
         ResponseEntity<String> forEntity = restTemplate.getForEntity(
-                "http://localhost:8080/users/{id}",
+                "http://localhost:8081/users/{id}",
                 String.class, 2
         );
 
