@@ -14,3 +14,15 @@
 
 2020-05-31 16:40:10,596 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.56.1:8010_true,
 
+2020-05-31 16:42:01,194 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8088:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 16:42:01,194 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.56.1:8081_true,192.168.56.1:8088_true,
+
+2020-05-31 16:52:58,627 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 16:52:58,627 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-05-31 16:53:12,297 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 16:53:12,297 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.56.1:8010_true,
+

@@ -106,3 +106,13 @@
 
 2020-05-31 16:37:10,883 WARN clearConfigHistory start
 
+2020-05-31 16:47:10,717 INFO [capacityManagement] start correct usage
+
+2020-05-31 16:47:10,718 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-05-31 16:47:10,885 WARN clearConfigHistory start
+
+2020-05-31 16:53:47,021 INFO Expired JWT token.
+
+2020-05-31 16:53:47,022 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+

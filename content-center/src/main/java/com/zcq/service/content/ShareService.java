@@ -1,4 +1,4 @@
-package com.zcq.content;
+package com.zcq.service.content;
 
 
 import com.zcq.dao.content.ShareMapper;
@@ -8,13 +8,13 @@ import com.zcq.domain.entity.content.Share;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.client.ServiceInstance;
+import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.client.RestTemplate;
 
-import java.util.Objects;
-import java.util.UUID;
+import java.util.List;
 
 @Slf4j
 @Service
@@ -26,13 +26,24 @@ public class ShareService {
     @Autowired
     private RestTemplate restTemplate;
 
+    @Autowired
+    private DiscoveryClient discoveryClient;
+
     public ShareDTO findById(Integer id) {
         // 获取分享详情
         Share share = this.shareMapper.selectByPrimaryKey(id);
         // 发布人id
         Integer userId = share.getUserId();
+
+        //用户中心所有实例的信息
+        List<ServiceInstance> instances = discoveryClient.getInstances("user-center");
+        String targetURL = instances.stream()
+                .map(instance -> instance.getUri().toString() + "/users/{id}")
+                .findFirst()
+                .orElseThrow(() -> new IllegalArgumentException("当前没有实例"));
+
         UserDTO userDTO = restTemplate.getForObject(
-                "http://localhost:8080/users/{id}",
+                targetURL,
                 UserDTO.class, userId
         );
 
