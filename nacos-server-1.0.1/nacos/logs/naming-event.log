@@ -4,3 +4,13 @@
 
 2020-05-31 16:37:11,340 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
+2020-05-31 16:37:11,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.56.1:8010_true,
+
+2020-05-31 16:39:36,294 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 16:39:36,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-05-31 16:40:10,596 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-31 16:40:10,596 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.56.1:8010_true,
+

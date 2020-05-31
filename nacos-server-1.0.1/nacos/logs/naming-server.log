@@ -282,3 +282,37 @@
 2020-05-31 16:37:58,173 INFO receive config info: unknown#192.168.56.1:8848#1590914278173#8
 
 
+2020-05-31 16:38:13,173 INFO receive config info: unknown#192.168.56.1:8848#1590914293173#8
+
+
+2020-05-31 16:38:28,174 INFO receive config info: unknown#192.168.56.1:8848#1590914308174#8
+
+
+2020-05-31 16:38:43,174 INFO receive config info: unknown#192.168.56.1:8848#1590914323174#8
+
+
+2020-05-31 16:38:58,174 INFO receive config info: unknown#192.168.56.1:8848#1590914338174#8
+
+
+2020-05-31 16:39:13,176 INFO receive config info: unknown#192.168.56.1:8848#1590914353176#8
+
+
+2020-05-31 16:39:28,176 INFO receive config info: unknown#192.168.56.1:8848#1590914368176#8
+
+
+2020-05-31 16:39:36,294 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@content-center, value: {"cachedChecksum":"","instanceList":[]}
+
+2020-05-31 16:39:43,177 INFO receive config info: unknown#192.168.56.1:8848#1590914383177#8
+
+
+2020-05-31 16:39:58,178 INFO receive config info: unknown#192.168.56.1:8848#1590914398178#8
+
+
+2020-05-31 16:40:10,596 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@content-center, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.56.1#8010#DEFAULT#DEFAULT_GROUP@@content-center","ip":"192.168.56.1","lastBeat":1590914410596,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8010,"serviceName":"DEFAULT_GROUP@@content-center","tenant":"","weight":1}]}
+
+2020-05-31 16:40:13,179 INFO receive config info: unknown#192.168.56.1:8848#1590914413179#8
+
+
+2020-05-31 16:40:28,180 INFO receive config info: unknown#192.168.56.1:8848#1590914428180#8
+
+

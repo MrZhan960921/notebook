@@ -128,3 +128,53 @@
 
 2020-05-31 16:37:48,291 INFO [NACOS-PUSH] clientMap size: 4
 
+2020-05-31 16:38:08,292 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-31 16:38:28,293 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-31 16:38:48,293 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-31 16:39:08,294 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-31 16:39:28,294 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-05-31 16:39:37,295 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-05-31 16:39:37,295 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 192.168.56.1:61408, agent: Nacos-Java-Client:v1.0.0, key: 192.168.56.1,61408,97489210122100
+
+2020-05-31 16:39:37,296 INFO send udp packet: 192.168.56.1,61408,97489210122100
+
+2020-05-31 16:39:37,297 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 192.168.56.1:49250, agent: Nacos-Java-Client:v1.0.0, key: 192.168.56.1,49250,97489210122100
+
+2020-05-31 16:39:37,297 INFO send udp packet: 192.168.56.1,49250,97489210122100
+
+2020-05-31 16:39:37,305 INFO received ack: {"type": "push-ack", "lastRefTime":"97489210122100", "data":""} from: 192.168.56.1:, cost: 49250 ms, unacked: 8, total push: 1
+
+2020-05-31 16:39:47,298 INFO retry to push data, key: 192.168.56.1,61408,97489210122100
+
+2020-05-31 16:39:47,298 INFO send udp packet: 192.168.56.1,61408,97489210122100
+
+2020-05-31 16:39:48,295 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-05-31 16:39:57,300 INFO retry to push data, key: 192.168.56.1,61408,97489210122100
+
+2020-05-31 16:39:57,300 WARN max re-push times reached, retry times 2, key: 192.168.56.1,61408,97489210122100
+
+2020-05-31 16:40:08,297 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-05-31 16:40:11,597 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-05-31 16:40:11,597 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 192.168.56.1:60909, agent: Nacos-Java-Client:v1.0.0, key: 192.168.56.1,60909,97523512412500
+
+2020-05-31 16:40:11,597 INFO send udp packet: 192.168.56.1,60909,97523512412500
+
+2020-05-31 16:40:11,597 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 192.168.56.1:49250, agent: Nacos-Java-Client:v1.0.0, key: 192.168.56.1,49250,97523512412500
+
+2020-05-31 16:40:11,598 INFO send udp packet: 192.168.56.1,49250,97523512412500
+
+2020-05-31 16:40:11,600 INFO received ack: {"type": "push-ack", "lastRefTime":"97523512412500", "data":""} from: 192.168.56.1:, cost: 49250 ms, unacked: 2, total push: 1
+
+2020-05-31 16:40:11,603 INFO received ack: {"type": "push-ack", "lastRefTime":"97523512412500", "data":""} from: 192.168.56.1:, cost: 60909 ms, unacked: 6, total push: 0
+
+2020-05-31 16:40:28,297 INFO [NACOS-PUSH] clientMap size: 4
+
