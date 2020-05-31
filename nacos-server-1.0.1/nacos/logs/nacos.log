@@ -122,3 +122,9 @@
 
 2020-05-31 16:57:10,886 WARN clearConfigHistory start
 
+2020-05-31 17:07:10,722 INFO [capacityManagement] start correct usage
+
+2020-05-31 17:07:10,722 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-05-31 17:07:10,888 WARN clearConfigHistory start
+
