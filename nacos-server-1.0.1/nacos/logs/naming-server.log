@@ -708,3 +708,92 @@
 2020-05-31 17:09:28,285 INFO receive config info: unknown#192.168.56.1:8848#1590916168285#8
 
 
+2020-05-31 17:09:43,286 INFO receive config info: unknown#192.168.56.1:8848#1590916183286#8
+
+
+2020-05-31 17:09:58,286 INFO receive config info: unknown#192.168.56.1:8848#1590916198286#8
+
+
+2020-05-31 23:49:36,706 INFO listen for service meta change
+
+2020-05-31 23:49:40,767 INFO [SERVER-INIT] got port: 8848
+
+2020-05-31 23:49:40,767 INFO [SERVER-INIT] got path: /nacos
+
+2020-05-31 23:49:41,564 INFO receive config info: unknown#192.168.56.1:8848#1590940181564#8
+
+
+2020-05-31 23:49:41,564 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":1590940181564,"lastRefTimeStr":"2020-05-31 23:49:41","servePort":8848,"site":"unknown","weight":8}]
+
+2020-05-31 23:49:56,565 INFO receive config info: unknown#192.168.56.1:8848#1590940196565#8
+
+
+2020-05-31 23:50:09,383 INFO [HEALTH-CHECK] health check is false
+
+2020-05-31 23:50:11,566 INFO receive config info: unknown#192.168.56.1:8848#1590940211566#8
+
+
+2020-05-31 23:50:26,567 INFO receive config info: unknown#192.168.56.1:8848#1590940226567#8
+
+
+2020-05-31 23:50:41,567 INFO receive config info: unknown#192.168.56.1:8848#1590940241567#8
+
+
+2020-05-31 23:50:41,567 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2020-05-31 23:50:56,568 INFO receive config info: unknown#192.168.56.1:8848#1590940256568#8
+
+
+2020-05-31 23:51:11,569 INFO receive config info: unknown#192.168.56.1:8848#1590940271569#8
+
+
+2020-05-31 23:51:26,569 INFO receive config info: unknown#192.168.56.1:8848#1590940286569#8
+
+
+2020-05-31 23:51:41,570 INFO receive config info: unknown#192.168.56.1:8848#1590940301570#8
+
+
+2020-05-31 23:51:56,571 INFO receive config info: unknown#192.168.56.1:8848#1590940316571#8
+
+
+2020-05-31 23:52:11,572 INFO receive config info: unknown#192.168.56.1:8848#1590940331572#8
+
+
+2020-05-31 23:52:26,573 INFO receive config info: unknown#192.168.56.1:8848#1590940346573#8
+
+
+2020-05-31 23:52:41,573 INFO receive config info: unknown#192.168.56.1:8848#1590940361573#8
+
+
+2020-05-31 23:52:56,574 INFO receive config info: unknown#192.168.56.1:8848#1590940376574#8
+
+
+2020-05-31 23:53:11,576 INFO receive config info: unknown#192.168.56.1:8848#1590940391576#8
+
+
+2020-05-31 23:53:26,578 INFO receive config info: unknown#192.168.56.1:8848#1590940406578#8
+
+
+2020-05-31 23:53:41,579 INFO receive config info: unknown#192.168.56.1:8848#1590940421579#8
+
+
+2020-05-31 23:53:56,579 INFO receive config info: unknown#192.168.56.1:8848#1590940436579#8
+
+
+2020-05-31 23:54:11,580 INFO receive config info: unknown#192.168.56.1:8848#1590940451580#8
+
+
+2020-05-31 23:54:26,582 INFO receive config info: unknown#192.168.56.1:8848#1590940466582#8
+
+
+2020-05-31 23:54:41,583 INFO receive config info: unknown#192.168.56.1:8848#1590940481583#8
+
+
+2020-05-31 23:54:56,584 INFO receive config info: unknown#192.168.56.1:8848#1590940496584#8
+
+
+2020-05-31 23:55:09,384 INFO [HEALTH-CHECK] health check is true
+
+2020-05-31 23:55:11,584 INFO receive config info: unknown#192.168.56.1:8848#1590940511584#8
+
+

@@ -2540,3 +2540,323 @@
 
 2020-05-31 17:09:27,007 INFO raw beat data size: 163, size of compressed data: 144
 
+2020-05-31 17:09:32,013 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 17:09:32,013 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 17:09:37,019 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 17:09:37,019 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 17:09:42,024 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 17:09:42,024 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 17:09:47,030 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 17:09:47,030 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 17:09:52,035 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 17:09:52,035 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 17:09:57,041 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 17:09:57,041 INFO raw beat data size: 163, size of compressed data: 140
+
+2020-05-31 23:49:36,650 INFO initializing Raft sub-system
+
+2020-05-31 23:49:36,651 INFO raft notifier started
+
+2020-05-31 23:49:36,651 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-05-31 23:49:36,653 INFO cache loaded, datum count: 0, current term: 0
+
+2020-05-31 23:49:36,653 INFO finish to load data from disk, cost: 2 ms.
+
+2020-05-31 23:49:36,655 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-05-31 23:49:36,570 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-05-31 23:49:36,666 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-05-31 23:49:36,706 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-05-31 23:49:38,452 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-05-31 23:49:41,563 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-31 23:49:41,563 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-05-31 23:49:41,563 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-31 23:49:41,564 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.56.1","key":"192.168.56.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-31 23:49:43,161 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:49:43,172 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:49:48,179 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:49:48,179 INFO raw beat data size: 163, size of compressed data: 139
+
+2020-05-31 23:49:53,185 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:49:53,185 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:49:58,190 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:49:58,190 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:50:03,196 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:03,196 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:50:08,201 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:08,201 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:50:13,208 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:13,208 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:50:18,214 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:18,214 INFO raw beat data size: 163, size of compressed data: 139
+
+2020-05-31 23:50:23,221 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:23,221 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:50:28,227 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:28,227 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:50:33,232 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:33,232 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 23:50:38,239 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:38,239 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:50:43,245 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:43,245 INFO raw beat data size: 163, size of compressed data: 145
+
+2020-05-31 23:50:48,250 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:48,250 INFO raw beat data size: 163, size of compressed data: 139
+
+2020-05-31 23:50:53,255 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:53,255 INFO raw beat data size: 163, size of compressed data: 145
+
+2020-05-31 23:50:58,261 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:50:58,261 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:51:03,267 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:03,267 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:51:08,272 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:08,272 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 23:51:13,277 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:13,277 INFO raw beat data size: 163, size of compressed data: 136
+
+2020-05-31 23:51:18,283 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:18,283 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 23:51:23,289 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:23,289 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:51:28,295 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:28,295 INFO raw beat data size: 163, size of compressed data: 140
+
+2020-05-31 23:51:33,301 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:33,301 INFO raw beat data size: 163, size of compressed data: 137
+
+2020-05-31 23:51:38,306 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:38,306 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:51:43,312 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:43,312 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:51:48,317 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:48,317 INFO raw beat data size: 163, size of compressed data: 137
+
+2020-05-31 23:51:53,322 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:53,322 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:51:58,329 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:51:58,329 INFO raw beat data size: 163, size of compressed data: 140
+
+2020-05-31 23:52:03,334 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:03,334 INFO raw beat data size: 163, size of compressed data: 133
+
+2020-05-31 23:52:08,340 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:08,340 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:52:13,349 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:13,349 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:52:18,355 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:18,355 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:52:23,360 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:23,361 INFO raw beat data size: 163, size of compressed data: 146
+
+2020-05-31 23:52:28,368 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:28,368 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:52:33,380 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:33,380 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:52:38,387 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:38,387 INFO raw beat data size: 163, size of compressed data: 140
+
+2020-05-31 23:52:43,393 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:43,393 INFO raw beat data size: 163, size of compressed data: 140
+
+2020-05-31 23:52:48,401 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:48,401 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:52:53,407 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:53,407 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:52:58,414 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:52:58,414 INFO raw beat data size: 163, size of compressed data: 133
+
+2020-05-31 23:53:03,418 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:03,418 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:53:08,425 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:08,425 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:53:13,431 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:13,431 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:53:18,437 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:18,437 INFO raw beat data size: 163, size of compressed data: 137
+
+2020-05-31 23:53:23,443 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:23,443 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:53:28,449 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:28,449 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 23:53:33,455 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:33,455 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:53:38,460 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:38,460 INFO raw beat data size: 163, size of compressed data: 147
+
+2020-05-31 23:53:43,466 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:43,466 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:53:48,472 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:48,472 INFO raw beat data size: 163, size of compressed data: 146
+
+2020-05-31 23:53:53,479 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:53,479 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:53:58,484 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:53:58,484 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:54:03,491 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:03,491 INFO raw beat data size: 163, size of compressed data: 137
+
+2020-05-31 23:54:08,498 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:08,498 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:54:13,503 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:13,503 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:54:18,511 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:18,511 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:54:23,517 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:23,517 INFO raw beat data size: 163, size of compressed data: 142
+
+2020-05-31 23:54:28,524 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:28,524 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:54:33,531 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:33,531 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:54:38,537 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:38,537 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:54:43,542 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:43,542 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 23:54:48,549 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:48,549 INFO raw beat data size: 163, size of compressed data: 144
+
+2020-05-31 23:54:53,555 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:53,555 INFO raw beat data size: 163, size of compressed data: 143
+
+2020-05-31 23:54:58,560 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:54:58,560 INFO raw beat data size: 163, size of compressed data: 141
+
+2020-05-31 23:55:03,569 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:55:03,569 INFO raw beat data size: 163, size of compressed data: 138
+
+2020-05-31 23:55:08,575 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:55:08,575 INFO raw beat data size: 163, size of compressed data: 133
+
+2020-05-31 23:55:13,581 INFO [RAFT] send beat with 0 keys.
+
+2020-05-31 23:55:13,581 INFO raw beat data size: 163, size of compressed data: 138
+
