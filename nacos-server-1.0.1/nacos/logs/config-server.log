@@ -96,3 +96,9 @@
 
 2020-05-31 23:49:39,325 WARN clear all config-info-beta-tenant failed.
 
+2020-05-31 23:49:39,338 INFO start clear all config-info-tag.
+
+2020-05-31 23:49:39,339 WARN clear all config-info-tag failed.
+
+2020-05-31 23:49:39,339 WARN clear all config-info-tag-tenant failed.
+

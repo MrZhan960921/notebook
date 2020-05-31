@@ -14,11 +14,11 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848
-        namespace: a809b1e2-3bc6-4054-826d-a93716cb56b9 #不同的namespace之间是隔离的，这里是namespace的uuid
-        cluster-name: NJ #指定集群名称
-        metadata:
-          instance: c
-          version: v1
+#        namespace: a809b1e2-3bc6-4054-826d-a93716cb56b9 #不同的namespace之间是隔离的，这里是namespace的uuid
+#        cluster-name: NJ #指定集群名称
+#        metadata:
+#          instance: c
+#          version: v1
 
   application:
     # 服务名称尽量用-，不要用_，不要用特殊字符
